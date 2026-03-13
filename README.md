@@ -30,14 +30,13 @@ time (UTC),time series name [unit],(potential further columns with same strucutr
 - The time column is in UTC (format is `YYYY-MM-DDTHH:MM:SSZ` in ISO 8601)
 
 - files are csv-files (comma-separated)
-  
-  
+
 
 ## Repository structure
 
 ### 01 Input
 
-![Smaple Image](_readme figures/plot.png)
+![Smaple Image](_readme_figures/plot.png)
 preprocessed Input data for:
 
 - energy market data (EPEX DA, EPEX ID, EXAA)
@@ -45,12 +44,11 @@ preprocessed Input data for:
 - control reserve market data (SRL+, SRL-, MRL+, MRL-)
 
 - market features (expected demand, expected generation)
-  
-  
+
 
 ### 02 Explorations
 
-![ACF](_readme figures/acf.png)
+![ACF](_readme_figures/acf.png)
 Exploration files for the profiles from the input folder. High-level exploration includes:
 
 - ACF-curves
@@ -68,7 +66,6 @@ Exploration files for the profiles from the input folder. High-level exploration
 - plots of some sample days and weeks
 
 Plaese note that some images are labeled in German language only.
-
 
 
 ### 03 Forecasts
