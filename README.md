@@ -36,7 +36,7 @@ time (UTC),time series name [unit],(potential further columns with same strucutr
 
 ### 01 Input
 
-![Smaple Image](_readme_figures/plot.png)
+![Sample Image](_readme_figures/plot.png)
 preprocessed Input data for:
 
 - energy market data (EPEX DA, EPEX ID, EXAA)
