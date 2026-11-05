@@ -1,6 +1,6 @@
 # Paper Data Repository - Influence of Forecast Improvement (Germany)
 
-# Contex
+# Context
 
 For the sake of transparency and reproducibility, this paper includes the data basis for the work presented in the following paper:
 
